@@ -2,7 +2,7 @@ package TemelKavramlarveDegiskenler;
 
 import java.util.Scanner;
 
-public class NotOrt {
+public class NotOrtalamasıHesaplama {
     public static void main(String[] args) {
 
         int mat, fizik, kimya, turkce, tarih, muzik;
