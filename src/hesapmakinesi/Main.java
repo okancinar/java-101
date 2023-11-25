@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package hesapmakinesi;
 
 import java.util.Scanner;
 
-public class HesapMakinesi {
+public class Main {
     public static void main(String[] args) {
         int n1,n2,select,result;
         Scanner input = new Scanner(System.in);

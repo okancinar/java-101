@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package dairealancevrehesaplama;
 
 import java.util.Scanner;
 
-public class DaireAlanCevreHesaplama {
+public class Main {
     public static void main(String[] args) {
         double pi = 3.14;
         Scanner input = new Scanner(System.in);

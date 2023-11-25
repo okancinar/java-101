@@ -1,9 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package vucutkitleendeksi;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class VucutKitleIndeksiHesapla {
+public class Main {
     public static void main(String[] args) {
 
 

@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package manavkasaprogrami;
 
 import java.util.Scanner;
 
-public class ManavKasaProgrami {
+public class Main {
     public static void main(String[] args) {
         double armut = 2.14;
         double elma = 3.67;

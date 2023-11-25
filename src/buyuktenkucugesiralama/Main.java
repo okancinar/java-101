@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package buyuktenkucugesiralama;
 
 import java.util.Scanner;
 
-public class BuyuktenKucugeSiralama {
+public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

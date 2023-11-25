@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package notortalamasihesaplama;
 
 import java.util.Scanner;
 
-public class NotOrtalamasıHesaplama {
+public class Main {
     public static void main(String[] args) {
 
         int mat, fizik, kimya, turkce, tarih, muzik;

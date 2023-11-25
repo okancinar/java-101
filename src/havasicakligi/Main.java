@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package havasicakligi;
 
 import java.util.Scanner;
 
-public class HavaSicakligi {
+public class Main {
     /*
 Hava Sıcaklığına Göre Etkinlik Önerme
 Java koşullu ifadeler ile hava sıcaklığına göre etkinlik öneren program yapımı.

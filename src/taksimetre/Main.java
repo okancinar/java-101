@@ -1,8 +1,8 @@
-package TemelKavramlarveDegiskenler;
+package taksimetre;
 
 import java.util.Scanner;
 
-public class Taksimetre {
+public class Main {
     public static void main(String[] args) {
         int km;
         Scanner input = new Scanner(System.in);
