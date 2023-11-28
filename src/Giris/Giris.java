@@ -2,15 +2,12 @@ package Giris;
 
 public class Giris {
     public static void main(String[] args) {
-        int points=6;
-        switch(points)
-        {
-            case 6: ;
-            case 7: System.out.println("Java");break;
-            case 8: ;
-            case 9: System.out.println("101");break;
-            case 10: System.out.println("Patika"); break;
-            default: System.out.println("Dev");
+        for (int i = 1; i <= 2; i++) {
+            for (int j = 1; j < 4; j++) {
+                if (i == 1) continue;
+                System.out.print(i + j);
+            }
         }
+
     }
 }
