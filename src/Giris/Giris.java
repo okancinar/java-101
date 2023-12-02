@@ -1,13 +1,17 @@
 package Giris;
 
 public class Giris {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 2; i++) {
-            for (int j = 1; j < 4; j++) {
-                if (i == 1) continue;
-                System.out.print(i + j);
-            }
-        }
 
+    public static void main(String[] args) {
+        recursiveMethod(4);
     }
+
+    static void recursiveMethod(int num) {
+        num--;
+        if (num == 0)
+            return;
+        System.out.print(num + ",");
+        recursiveMethod(num);
+    }
+
 }
